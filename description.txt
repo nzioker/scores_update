@@ -1,0 +1,4 @@
+I decided to build this program because I always want to be updated on what's happening on the football world. I may not be able
+to watch a whole 90 game minute, but I sure want to know which teams are playing every day.
+This program fetches the fixtures of Champions league and the premier league every day.
+Using winotify, it displays these games to me as a notification. I've only used python in this project.
